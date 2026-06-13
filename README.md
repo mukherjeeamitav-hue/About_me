@@ -21,7 +21,8 @@ I am continuously exploring the evolving world of Artificial Intelligence, Machi
 
 This GitHub profile showcases my projects, dashboards, analytics solutions, AI experiments, and learning journey in the fields of Data Analytics, Business Intelligence, and Artificial Intelligence.
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
+<img align="right" alt="GIF" 
+src="https://github.com/mukherjeeamitav-hue/About_me/blob/fccac713b3e38e4fcc5634d5042e2e1f0788ed0e/About_me.png" width="400" height="225" />
   
 
 **Areas of Interest:**
